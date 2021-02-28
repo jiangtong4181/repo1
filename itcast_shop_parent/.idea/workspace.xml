@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="649abd2f-3155-4588-8ae4-c23021a08033" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/itcast_shop_common/target/" />
+    <ignored path="$PROJECT_DIR$/itcast_shop_canal_client/target/" />
+    <ignored path="$PROJECT_DIR$/itcast_shop_data_simulator/target/" />
+    <ignored path="$PROJECT_DIR$/itcast_shop_realtime_etl/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="395" column="39" selection-start-line="395" selection-start-column="35" selection-end-line="395" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/itcast_shop_common/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast_shop_data_simulator/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast_shop_canal_client/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast_shop_canal_client/src/main/java/com/itcast/canal_client/util/ConfigUtil.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_canal_client/src/main/java/com/itcast/canal_client/Entrance.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_common/src/main/java/cn/itcast/canal/protobuf/ProtoBufable.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_common/src/main/java/cn/itcast/canal/protobuf/ProtoBufSerializer.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_common/src/main/proto/CanalModel.proto" />
+        <option value="$PROJECT_DIR$/itcast_shop_canal_client/src/main/java/com/itcast/canal_client/kafka/KafkaSender.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/resources/application.conf" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/resources/hbase-site.xml" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/GlobalConfigUtil.scala" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/HbaseUtil.scala" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/BaseETL.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/KafkaProp.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/MQBaseETL.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_common/src/main/java/cn/itcast/canal/bean/CanalRowDate.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/CanalRowDataDeserialzerSchema.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/MySqlBaseETL.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimGoodsCatDBEntity.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimGoodsDBEntity.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimShopsDBEntity.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimOrgDBEntity.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimShopCatDBEntity.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/RedisUtil.scala" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/dataloader/DimentionDataLoader.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/trait/MQBaseETL.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/trait/MySqlBaseETL.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/GlobalConfigUtil.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/itcast_shop_canal_client/src/main/resources/config.properties" />
+        <option value="$PROJECT_DIR$/itcast_shop_canal_client/src/main/java/com/itcast/canal_client/CanalClient.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/app/App.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/process/SyncDimDate.java" />
+        <option value="$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/resources/log4j.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itcast_shop_data_simulator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itcast_shop_data_simulator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="itcast_shop_parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1416" />
+    <option name="y" value="181" />
+    <option name="width" value="1734" />
+    <option name="height" value="1118" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="canal_client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="kafka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_canal_client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="etl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="etl" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="etl" type="462c0819:PsiDirectoryNode" />
+              <item name="dataloader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="etl" type="462c0819:PsiDirectoryNode" />
+              <item name="process" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="etl" type="462c0819:PsiDirectoryNode" />
+              <item name="trait" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="realtime" type="462c0819:PsiDirectoryNode" />
+              <item name="etl" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast_shop_parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="itcast_shop_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="itcast_shop_realtime_etl" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\itcast_shop_parent\itcast_shop_realtime_etl\src\main\java\cn\itcast\shop\realtime\etl\utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.shop.realtime.etl.app.App" />
+      <module name="itcast_shop_realtime_etl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.shop.realtime.etl.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="DimentionDataLoader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.shop.realtime.etl.dataloader.DimentionDataLoader" />
+      <module name="itcast_shop_realtime_etl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.shop.realtime.etl.dataloader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Entrance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itcast.canal_client.Entrance" />
+      <module name="itcast_shop_canal_client" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itcast.canal_client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GlobalConfigUtil" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.shop.realtime.etl.utils.GlobalConfigUtil" />
+      <module name="itcast_shop_realtime_etl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.shop.realtime.etl.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.shop.realtime.etl.utils.test" />
+      <module name="itcast_shop_realtime_etl" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.shop.realtime.etl.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Entrance" />
+      <item itemvalue="Application.GlobalConfigUtil" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.DimentionDataLoader" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Entrance" />
+        <item itemvalue="Application.DimentionDataLoader" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.GlobalConfigUtil" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="649abd2f-3155-4588-8ae4-c23021a08033" name="Default" comment="" />
+      <created>1614320325608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614320325608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.23887122" side_tool="true" visible="true" weight="0.2814992" />
+      <window_info anchor="bottom" id="GenProtobuf" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.13950716" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7611288" weight="0.37001595" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49960256" weight="0.3293461" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17607313" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49801272" weight="0.39952153" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.7929253" weight="0.3293461" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/process/SyncDimDate.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/process/SyncDimDate.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/process/SyncDimDate.java</url>
+          <line>82</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>GlobalConfigUtil.getKeyInputTopicCanal()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/itcast_shop_common/target/generated-sources/protobuf/java/cn/itcast/canal/protobuf/CanalModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/resources/hbase-site.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/pool/ConnectionPoolBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2603">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/pool/ConnectionException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="63" selection-start-line="6" selection-start-column="63" selection-end-line="6" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_canal_client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805">
+          <caret line="68" column="10" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1451">
+          <caret line="78" column="21" selection-start-line="68" selection-start-column="10" selection-end-line="78" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/GlobalConfigUtil.scala" />
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/HbaseUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="24" column="82" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimGoodsDBEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="87" selection-start-line="7" selection-start-column="77" selection-end-line="7" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/3.0.1/jedis-3.0.1.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="77" column="11" selection-start-line="77" selection-start-column="11" selection-end-line="77" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimShopsDBEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimOrgDBEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="118" column="28" selection-start-line="118" selection-start-column="12" selection-end-line="118" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimShopCatDBEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/trait/MQBaseETL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/trait/MySqlBaseETL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#587#588#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/bean/DimGoodsCatDBEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/trait/BaseETL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/GlobalConfigUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#882#883#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#1007#1008#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1121#1122#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1230#1231#0" expanded="true" />
+            <element signature="e#1278#1279#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#2112#2113#0" expanded="true" />
+            <element signature="e#2178#2179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_common/src/main/java/cn/itcast/canal/protobuf/ProtoBufSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/KafkaProp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="88" selection-start-line="8" selection-start-column="69" selection-end-line="8" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/functions/sink/RichSinkFunction.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_common/src/main/java/cn/itcast/canal/protobuf/ProtoBufable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_canal_client/src/main/resources/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_common/src/main/java/cn/itcast/canal/bean/CanalRowDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-base_2.11/1.8.0/flink-connector-kafka-base_2.11-1.8.0.jar!/org/apache/flink/streaming/connectors/kafka/internals/KafkaDeserializationSchemaWrapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/operators/StreamSink.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/operators/StreamFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/operators/AbstractStreamOperator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="528" selection-start-line="528" selection-end-line="528" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-0.10_2.11/1.8.0/flink-connector-kafka-0.10_2.11-1.8.0.jar!/org/apache/flink/streaming/connectors/kafka/internal/Kafka010Fetcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/runtime/tasks/OperatorChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="444" selection-start-line="444" selection-end-line="444" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/operators/StreamSourceContexts.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="292" column="40" selection-start-line="292" selection-start-column="40" selection-end-line="292" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-base_2.11/1.8.0/flink-connector-kafka-base_2.11-1.8.0.jar!/org/apache/flink/streaming/connectors/kafka/internals/AbstractFetcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-kafka-0.9_2.11/1.8.0/flink-connector-kafka-0.9_2.11-1.8.0.jar!/org/apache/flink/streaming/connectors/kafka/internal/Kafka09Fetcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/api/operators/StreamSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="37" column="144" selection-start-line="37" selection-start-column="144" selection-end-line="37" selection-end-column="144" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-streaming-java_2.11/1.8.0/flink-streaming-java_2.11-1.8.0.jar!/org/apache/flink/streaming/runtime/tasks/StreamTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="168" selection-start-line="168" selection-end-line="168" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-runtime_2.11/1.8.0/flink-runtime_2.11-1.8.0.jar!/org/apache/flink/runtime/taskmanager/Task.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="384" selection-start-line="384" selection-end-line="384" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/dataloader/DimentionDataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2683">
+          <caret line="156" column="50" selection-start-line="156" selection-start-column="50" selection-end-line="156" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/app/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_canal_client/src/main/java/com/itcast/canal_client/Entrance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_canal_client/src/main/java/com/itcast/canal_client/kafka/KafkaSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_canal_client/src/main/java/com/itcast/canal_client/CanalClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="50" column="24" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_canal_client/src/main/java/com/itcast/canal_client/util/ConfigUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/process/SyncDimDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="85" column="56" lean-forward="true" selection-start-line="85" selection-start-column="56" selection-end-line="85" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="57" lean-forward="true" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/CanalRowDataDeserialzerSchema.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/itcast_shop_realtime_etl/src/main/java/cn/itcast/shop/realtime/etl/utils/RedisUtil.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="395" column="39" selection-start-line="395" selection-start-column="35" selection-end-line="395" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
